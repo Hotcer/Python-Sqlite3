@@ -26,3 +26,5 @@ if __name__ == '__main__':
         ('David', 'Gonzalez', 15.52548)
     ]
 insertarFilas(alumnos)
+for alumno in alumnos:
+    print(alumno)
